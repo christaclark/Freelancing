@@ -22,6 +22,8 @@ What are we going to talk about?
 <br>
 <br>
 
+
+
  <h1>Business basics & Getting started</h1>
 You can stay in bed all day, but you won’t want to.
 When you picture your ideal lifestyle:
@@ -59,6 +61,8 @@ Do you have a budget?
 Do you have a business account and a savings account for your taxes?
 <br>
 <br>
+
+
 
  <h1>Hiring and Firing</h1>
  <b>How to Find + Keep Clients</b>
@@ -154,7 +158,9 @@ After a few projects you will feel more comfortable with quoting a timeline and 
 <br>
 <br>
 
-<b>Process</b>
+
+
+<h1>Process</h1>
 It’s helped to have a defined process of how working with you will go and what people can expect.
 <br>
 <br>
