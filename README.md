@@ -1,8 +1,4 @@
 # Freelancing
-Presentation on Becoming a Freelance Developer/ Designer
-
-
-FREELANCE
 <br>Starting Your Own Web Development Business and Learning How to Survive in the Digital Wild
 <br>
 <br>
