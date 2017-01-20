@@ -1,5 +1,4 @@
-# Freelancing
-Presentation on Becoming a Freelance Developer/ Designer
+# Curious About Freelancing?
 
 
 Welcome! 
